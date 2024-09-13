@@ -2,6 +2,12 @@
 
 Super Nova is an advanced, NLP-powered news discovery engine that allows users to quickly and efficiently find relevant news articles, summarize lengthy texts, and get real-time suggestions. By leveraging Natural Language Processing (NLP) techniques, Super Nova enhances information retrieval and summarization from large collections of online news, making it easier for users to stay informed with concise summaries and ranked results.
 
+## Project Documentation
+
+ipynb file :  click [here](https://github.com/sdjbabin/Super-Nova---NLP-powered-News-Discovery-Engine/blob/main/nlp_project%20(1).ipynb).
+Report of work : click [here](https://github.com/sdjbabin/Super-Nova---NLP-powered-News-Discovery-Engine/blob/main/NLP_ppt_49_66_57.pdf)
+
+
 ## Key Features
 
 - **Web Scraping & Content Extraction**: Automatically extracts headlines, URLs, and article content from various news websites using `BeautifulSoup`.
