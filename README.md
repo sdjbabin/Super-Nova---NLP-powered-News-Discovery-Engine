@@ -5,6 +5,7 @@ Super Nova is an advanced, NLP-powered news discovery engine that allows users t
 ## Project Documentation
 
 ipynb file :  click [here](https://github.com/sdjbabin/Super-Nova---NLP-powered-News-Discovery-Engine/blob/main/nlp_project%20(1).ipynb).
+<br>
 Report of work : click [here](https://github.com/sdjbabin/Super-Nova---NLP-powered-News-Discovery-Engine/blob/main/NLP_ppt_49_66_57.pdf)
 
 
