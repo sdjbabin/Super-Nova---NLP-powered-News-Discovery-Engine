@@ -68,6 +68,11 @@ demo = gr.Interface(
 
 demo.launch()
 ```
+![image](https://github.com/user-attachments/assets/5c198278-4946-4247-afdd-6acdc89b47fe)
+![image](https://github.com/user-attachments/assets/b4cb7a5a-80da-4c36-82ab-90a709595378)
+![image](https://github.com/user-attachments/assets/0ec5176a-3c7a-4801-91ea-030675ed8e00)
+![image](https://github.com/user-attachments/assets/79d2e31b-fdfa-4e5d-a6d3-70406616615f)
+
 
 ## Contributors
 
