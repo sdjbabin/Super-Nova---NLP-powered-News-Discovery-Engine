@@ -1,4 +1,4 @@
-# Super Nova - NLP-powered News Discovery Engine 📰🔍
+# Super Nova: NLP-powered News Discovery Engine 📰🔍
 
 Super Nova is an advanced, NLP-powered news discovery engine that allows users to quickly and efficiently find relevant news articles, summarize lengthy texts, and get real-time suggestions. By leveraging Natural Language Processing (NLP) techniques, Super Nova enhances information retrieval and summarization from large collections of online news, making it easier for users to stay informed with concise summaries and ranked results.
 
