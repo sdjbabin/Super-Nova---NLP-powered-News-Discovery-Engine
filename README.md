@@ -2,11 +2,18 @@
 
 Super Nova is an advanced, NLP-powered news discovery engine that allows users to quickly and efficiently find relevant news articles, summarize lengthy texts, and get real-time suggestions. By leveraging Natural Language Processing (NLP) techniques, Super Nova enhances information retrieval and summarization from large collections of online news, making it easier for users to stay informed with concise summaries and ranked results.
 
+
+# Watch demo
+https://github.com/user-attachments/assets/99d2b521-8ef3-4fba-b55a-737ae69d5bf7
+
+
+
 ## Project Documentation
 
 ipynb file :  click [here](https://github.com/sdjbabin/Super-Nova---NLP-powered-News-Discovery-Engine/blob/main/nlp_project%20(1).ipynb).
 <br>
 Report of work : click [here](https://github.com/sdjbabin/Super-Nova---NLP-powered-News-Discovery-Engine/blob/main/NLP_ppt_49_66_57.pdf)
+
 
 
 ## Key Features
@@ -81,11 +88,11 @@ demo.launch()
 ![image](https://github.com/user-attachments/assets/79d2e31b-fdfa-4e5d-a6d3-70406616615f)
 
 
-## Contributors
+## Contributors and Roles
 
-- **Ritwika Das Gupta (2348049)**
-- **Soham Chatterjee (2348062)**
-- **Sayantan Ray (2348057)**
+- **Soham Chatterjee (2348062)** : Glove Embeddings and KeydVectors, working with next word suggestions and autocorrect features.
+- **Ritwika Das Gupta (2348049)** : Gradio Interface, Summarization, Cosine Similarity to generate relevant articles.
+- **Sayantan Ray (2348057)** : Rake Algorithm, Web Scraping, coding and debugging.
 - **Guided by Dr. Saleema J S**
 
 ## License
